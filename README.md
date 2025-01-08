@@ -1,4 +1,4 @@
-# OnlineRetail Big Data Engineering Project
+# Online Retail Big Data Engineering Project
 
 
 # Introduction
