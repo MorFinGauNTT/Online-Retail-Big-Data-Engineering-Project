@@ -31,7 +31,7 @@ Visualizations
 The project includes clear and informative visualizations:
 
 Bar Chart: Showcasing the top 10 most sold products.
-Bar Chart: Displaying the top 10 countries by sales volume.
+Bar Chart: Displaying the top 10 countries by sales volume.(You can reach to graphs via report.pdf)
 These visualizations help highlight the key insights obtained from the dataset.
 
 Implementation Details
