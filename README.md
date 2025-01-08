@@ -48,7 +48,7 @@ Exported results to Pandas for visualization with Matplotlib.
 This project showcases how Big Data tools like Apache Spark can efficiently analyze large datasets and uncover valuable business insights. The combination of PySpark for data processing and Python libraries for visualization demonstrates the power of hybrid approaches in data analysis.
 
 # Author
-[Osman Altunbağ]
+Osman Altunbağ
 
 # Acknowledgements
 Special thanks to Kaggle for providing the dataset and to all the contributors to the open-source tools used in this project.
